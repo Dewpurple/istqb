@@ -4,6 +4,15 @@ a. The point during software development when testing should start
 b. The body of knowledge used for test analysis and design
 c. The source to determine the actual results from a set of tests
 d. The method used to systematically devise test conditions
+
+B B is correct. Per the glossary, the test basis is “a
+source to determine expected results to compare
+with the actual result of the system under test”. A
+is not correct because this is usually defined as
+the moment of involvement for testing. C is not
+correct because this is the test oracle. D is not
+correct because the test basis is not a method.
+
 Question #2 (1 pt)
 When the tester verifies the test basis while designing tests early in the lifecycle, which common test
 objective is being achieved?
@@ -11,12 +20,32 @@ a. Gaining confidence
 b. Finding defects
 c. Preventing defects
 d. Providing information for decision making
+
+Keyword 1
+2 C C is correct per the syllabus. The other three are
+achieved primarily by doing dynamic testing. This
+is a bit tricky because you are very likely to find
+defects while doing this analysis and this may
+lead to either gaining or destroying confidence
+and needing to supply information to the decision
+makers. However, the wording of the question
+matches the wording in the syllabus that defines
+preventing defects.
+
 Question #3 (1 pt)
 When following the fundamental test process, when should the test control activity take place?
 a. During the planning activities
 b. During the implementation and execution activities
 c. During the monitoring activities
 d. During all the activities
+
+
+3 D D is correct. Control occurs throughout the
+project to ensure that it is staying on track based
+on the plan and to take any corrective steps that
+may be necessary. The monitoring information is
+used to determine if control actions are needed.
+
 Question #4 (1 pt)
 Which of the following is a correct statement?
 a. A developer makes a mistake which causes a defect that may be seen as a failure during
@@ -27,3 +56,14 @@ c. A developer has introduced a failure which results in a defect that may be se
 during dynamic testing
 d. A developer makes a mistake which causes a bug that may be seen as a defect when the
 software is executed
+
+
+4 A A is correct. The developer makes a
+mistake/error which causes a defect/fault/bug
+which may cause a failure when the code is
+dynamically tested or executed. B is incorrect
+because fault and failure are reversed. C is
+incorrect because failure and mistake are
+reversed. D is incorrect because it’s a failure
+that’s seen during execution, not the defect itself.
+The failure is a symptom of the defect.
