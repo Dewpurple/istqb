@@ -1,0 +1,29 @@
+Question #1 (1pt)
+What is the test basis?
+a. The point during software development when testing should start
+b. The body of knowledge used for test analysis and design
+c. The source to determine the actual results from a set of tests
+d. The method used to systematically devise test conditions
+Question #2 (1 pt)
+When the tester verifies the test basis while designing tests early in the lifecycle, which common test
+objective is being achieved?
+a. Gaining confidence
+b. Finding defects
+c. Preventing defects
+d. Providing information for decision making
+Question #3 (1 pt)
+When following the fundamental test process, when should the test control activity take place?
+a. During the planning activities
+b. During the implementation and execution activities
+c. During the monitoring activities
+d. During all the activities
+Question #4 (1 pt)
+Which of the following is a correct statement?
+a. A developer makes a mistake which causes a defect that may be seen as a failure during
+dynamic testing
+b. A developer makes an error which results in a failure that may be seen as a fault when the
+software is executed
+c. A developer has introduced a failure which results in a defect that may be seen as a mistake
+during dynamic testing
+d. A developer makes a mistake which causes a bug that may be seen as a defect when the
+software is executed
